@@ -9,6 +9,11 @@ Una vez completado el funcionamiento basico tenemos que llevar a cabo ciertas mo
 
 ## Ejemplo de Ejecución
 
+Funcionamiento normal:  
+![Gif_01](./gif/Horizontal_AR_GIF.gif)  
+Funcionamiento en superficie vertical:  
+![Gif_02](./gif/Vertical_AR_GIF.gif)  
+
 ## Tarea 01  
 ***Scripts:*** PackageSpawner.cs  
   
@@ -20,4 +25,5 @@ y el jugador no nota lo que esta pasando).
 ## Tarea 02  
 ***Scripts:*** -  
   
-E 
+No estuve muy seguro de lo que tenia que hacer en este apartado por lo que intente simular el juego original pero sobre una superficie vertical. Esto se puede modificar en 'AR Plane Manager' cambiando 
+de 'Horizontal' a 'Everything' el cual nos suscribe a ambos planos. El resultado de esto se puede ver en el segundo GIF. 
